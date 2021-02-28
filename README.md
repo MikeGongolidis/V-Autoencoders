@@ -4,5 +4,5 @@
 ![](assets/mnist.png)
 
 ### Convolutional VAE for CIFAR
-
+(Ongoing...)
 ![](assets/cifar.png)
